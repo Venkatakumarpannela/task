@@ -6,7 +6,7 @@
 .container{
     border: 2px solid #0b0a0a;
     width: 100vw;
-    /* height: 100vh; */
+    height: 100vh;
     display: flex;
     gap: 15px;
     flex-wrap: wrap;
